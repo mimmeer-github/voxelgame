@@ -1,9 +1,9 @@
-[gd_scene load_steps=2 format=2]
+[gd_scene load_steps=2 format=3 uid="uid://rtkipsbm6dyu"]
 
-[ext_resource path="res://blocky_game/generator/test_tree_generator.gd" type="Script" id=1]
+[ext_resource type="Script" uid="uid://uvsfou1bmwlh" path="res://blocky_game/generator/test_tree_generator.gd" id="1"]
 
 [node name="Node" type="Node"]
-script = ExtResource( 1 )
+script = ExtResource("1")
 
 [node name="MeshInstance3D" type="MeshInstance3D" parent="."]
 

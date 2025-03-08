@@ -1,9 +1,9 @@
 [gd_scene load_steps=5 format=3 uid="uid://b7sb3tjlrpe5j"]
 
 [ext_resource type="Texture2D" uid="uid://cbrlpwyada727" path="res://blocky_game/blocks/dirt/dirt_sprite.png" id="1"]
-[ext_resource type="Script" path="res://blocky_game/gui/hotbar/hotbar_slot.gd" id="2"]
+[ext_resource type="Script" uid="uid://c5dilp5p5skbh" path="res://blocky_game/gui/hotbar/hotbar_slot.gd" id="2"]
 [ext_resource type="Texture2D" uid="uid://ou88l0fsjs1u" path="res://blocky_game/gui/hotbar/hotbar_slot_bg.png" id="3"]
-[ext_resource type="Script" path="res://blocky_game/gui/inventory_item_display.gd" id="4"]
+[ext_resource type="Script" uid="uid://b7xkqychdrphn" path="res://blocky_game/gui/inventory_item_display.gd" id="4"]
 
 [node name="HotbarSlot" type="Control"]
 custom_minimum_size = Vector2(64, 64)

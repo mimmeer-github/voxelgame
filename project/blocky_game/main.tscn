@@ -1,7 +1,7 @@
 [gd_scene load_steps=3 format=3 uid="uid://djih65ishd80"]
 
-[ext_resource type="Script" path="res://blocky_game/main.gd" id="1_33xa8"]
-[ext_resource type="Script" path="res://blocky_game/main_menu.gd" id="2_koemg"]
+[ext_resource type="Script" uid="uid://b4nhadtu3pxb3" path="res://blocky_game/main.gd" id="1_33xa8"]
+[ext_resource type="Script" uid="uid://cvaew75y0vrpv" path="res://blocky_game/main_menu.gd" id="2_koemg"]
 
 [node name="Main" type="Node"]
 script = ExtResource("1_33xa8")

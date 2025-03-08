@@ -2,10 +2,10 @@
 
 [ext_resource type="VoxelMesherBlocky" uid="uid://c6l3pdnhmvhqp" path="res://blocky_game/blocks/mesher.tres" id="1"]
 [ext_resource type="VoxelGeneratorScript" path="res://blocky_game/generator/world_generator.tres" id="4"]
-[ext_resource type="Script" path="res://blocky_game/blocky_game.gd" id="5"]
-[ext_resource type="Script" path="res://blocky_game/debug_info.gd" id="8"]
-[ext_resource type="Script" path="res://blocky_game/blocks/blocks.gd" id="12"]
-[ext_resource type="Script" path="res://blocky_game/items/item_db.gd" id="13"]
+[ext_resource type="Script" uid="uid://chhee1y4pvlw4" path="res://blocky_game/blocky_game.gd" id="5"]
+[ext_resource type="Script" uid="uid://bsankr2l8w206" path="res://blocky_game/debug_info.gd" id="8"]
+[ext_resource type="Script" uid="uid://b0svvn8wb6n6y" path="res://blocky_game/blocks/blocks.gd" id="12"]
+[ext_resource type="Script" uid="uid://b2ul64p27souh" path="res://blocky_game/items/item_db.gd" id="13"]
 
 [sub_resource type="PhysicalSkyMaterial" id="PhysicalSkyMaterial_ixhix"]
 ground_color = Color(0.14902, 0.0901961, 0.0745098, 1)
